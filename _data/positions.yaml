@@ -10,7 +10,7 @@
   - {title: "Organizing other social and professional events", description: "Co-chairs help organize and facilitate events to provide networking opportunities for the women in the college."}
   - {title: "Representing the organization at public events, upon request", description: "Co-chairs may be asked to speak on behalf of the CSWomen organization, or as representatives of women's interests in the CICS."}
   - {title: "Connecting the general membership with the resources they need", description: "Members of the CSWomen general membership or outside the community may seek academic, personal, or professional assistance from the co-chairs. Co-chairs should connect members with the appropriate resources, with input from the faculty liaison when in doubt."}
-  selection: "Interested parties should submit by email their intent to `womenchairs@cs.umass.edu`, and in the case of multiple applicants, the next co-chair will be decided by a membership vote. Graduate co-chairs may only serve one term."
+  selection: "Interested parties should submit by email their intent to `uofuwomenincs@gmail.com`, and in the case of multiple applicants, the next co-chair will be decided by a membership vote. Graduate co-chairs may only serve one term."
   term_length: "Graduate co-chairs each serve one term corresponding to one calendar year. Unless a co-chair resigns from their position, terms should be staggered between the two co-chairs. A graduate student may not serve more than one term as a co-chair."
   time_commitment: "CSWomen co-chairs can be a significant time commitment. Other departmental service is highly discouraged during co-chair term. Expect to spend 5-7 hrs per week on CSWomen responsibilities. Expect to spend fewer hours when non-essential positions are filled."
   notes: "Graduate co-chairs must be enrolled in a graduate degree program in CICS."
@@ -94,12 +94,12 @@
   - {title: "Blog posts", description: "The primary externally-facing public relations resource is the CS Women website. Our front page is the blog -- this shows our activity and is critical for recruiting and for obtaining funding. The Public Relations chair is not required to generate content for the post, but instead to edit Scribe notes, personal statements, and other content solicited from the membership."}
   - {title: "Github", description: "All CS Women documentation is kept on Github. The social media chair will be tagged in relevant posts.
 "}
-  - {title: "Twitter", description: "CS Women maintains a [Twitter account](https://twitter.com/cswomenumass) that should be used for group news. Re-tweet relevant news from the CICS account. The Twitter account is more actively followed by professional organizations and corporate affiliates. Tweet corporate-sponsored events with the sponsor's hashtag(s). Also tweet professional updates from the membership with the hashtag `#goodnews`. Request the password from the Co-chairs."}
+  - {title: "Twitter", description: ""}
   - {title: "Facebook group membership", description: "The social media chair is responsible for inviting members to the Facebook group and approving individuals who have requested membership. The social media chair should send an email to the general membership publicizing the Facebook group at the beginning of the Fall term. When handling requests to join the group, any 5-College-affiliated individual should be approved. If the social media chair is not sure whether someone has 5-college affiliation, contact that person.
 "}
   - {title: "Offline", description: "Although not required, the social media chair is also encouraged to advertise events offline as well. This can be done through postering in the Computer Science building and other appropriate locations. She may work with the [CS Women Graphic Designer](#graphic_designer)."}
 
-  selection: "Interested parties should submit their resumes, social media links, and links to any blog posts to `womenchairs@cs.umass.edu`. Preference will be given to CS Women members who are active in the community and on social media, and especially to those who generate content about women in computing (e.g. those who have active blogs)."
+  selection: "Interested parties should submit their resumes, social media links, and links to any blog posts to `uofuwomenincs@gmail.com`. Preference will be given to CS Women members who are active in the community and on social media, and especially to those who generate content about women in computing (e.g. those who have active blogs)."
   term_length: "The term for the social media chair is one semester. There are no restrictions on the number of terms served. However, Co-chairs must approve re-appointment."
   time_commitment: "Expect to spend 1-2 hours per week on obligations. Since there are several accounts to manage, we recommend using a dedicated browser to handle all account information. For example, if you typically use Chrome for logging in to your personal accounts, log in to the CS Women accounts using Firefox. This should cut down on the overhead of managing multiple social media accounts."
   notes: "Any interested individual in the general membership is eligible, but preference will be given to graduate women. Note that the CS Women leadership often receives unsolicited recruitment requests. Requests for participation in hackathons are an increasingly popular recruitment mechanism, as are ``free'' schools/camps/etc. CS Women has corporate affiliates via CICS, who are given priority in recruitment. Any requests from parties that are not affiliates need to be redirected to the Treasurer, who will put them in touch with the appropriate liaison in CICS."
@@ -119,7 +119,7 @@
   - other
   responsibilities:
   - {description: "The CS Women photographer should be available to attend most extra-curricular CS Women activities, and should let the Co-chairs know in advance if she cannot. These include the social events, workshops, and networking events such as the Grace Hopper Celebration. Since the lunches are closed events, we do not typically take photographs."}
-  selection: "Interested applicants should submit their names and any relevant portfolio work (not required) to `womenchairs@cs.umass.edu`. Co-chairs will select from the pool of applicants. Students do not need to own a camera; high-quality cameras may be borrowed from the university. "
+  selection: "Interested applicants should submit their names and any relevant portfolio work (not required) to `uofuwomenincs@gmail.com`. Co-chairs will select from the pool of applicants. Students do not need to own a camera; high-quality cameras may be borrowed from the university. "
   term_length: "Term length is one semester and is renewable without re-application, pending approval of the Co-chairs."
   time_commitment: "The time commitment depends on the number of non-lunch events each semester. If there is sufficient interest, we may select more than one photographer, which will reduce the time commitment per person."
   notes: "This position is open to all CS Women members. Individuals who are not female-identified, but who have an interest in CS Women may also apply. _We especially encourage undergraduates to apply for this position_. "
@@ -168,8 +168,8 @@
   responsibilities:
   - {description: "Participate in the selection committee for design-related activities, such as the [CS Women Logo design contest](http://www.hostphotocontest.com/contest/cswlogo)."}
   - {description: "Design fliers about CS Women events and initiatives, to be emailed and posted around campus."}
-  - {description: "Maintain and update [style-related content](http://github.com/CSWomenUMass/cswomenumass.github.io) on the [CS Women website](http://cics.umass.edu/~women)."}
-  selection: "Co-chairs select by consensus from the pool of applications submitted. To apply for this position, please send the following documents to `womenchairs@cs.umass.edu`:
+  - {description: "Maintain and update [style-related content](http://github.com/uofu-cs-women/uofu-cs-women.github.io) on the []."}
+  selection: "Co-chairs select by consensus from the pool of applications submitted. To apply for this position, please send the following documents to `uofuwomenincs@gmail.com`:
 
 * Your affiliation with CS Women, CICS, and your academic status _(e.g., female 2rd year Undergraduate CS Major; 3rd year PhD candidate in Linguistics, have taken CS courses and want to improve the status of women in STEM)_
 * A paragraph explaining your interest and background in design.
@@ -205,7 +205,7 @@
   - {description: "Respond to urgent and minor edits on the website, using Github issues."}
   - {description: "Update the website in concert with the Co-chairs."}
   - {description: "Chief maintainer for the blog. (This means you must collect and post notes from the [Scribe](#scribe))."}
-  selection: "Although we will give preference to individuals with experience, the position is open to anyone who is interested in learning the skills necessary to fulfill the above stated responsibilities. Please submit the following to `womenchairs@cs.umass.edu`:
+  selection: "Although we will give preference to individuals with experience, the position is open to anyone who is interested in learning the skills necessary to fulfill the above stated responsibilities. Please submit the following to `uofuwomenincs@gmail.com`:
 
 * A short paragraph stating your interest.
 * Your relationship with CICS.
