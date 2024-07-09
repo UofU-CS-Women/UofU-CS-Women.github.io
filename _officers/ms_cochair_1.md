@@ -3,7 +3,7 @@ publish: true
 layout: default
 title: Member
 name: "Sakshi Jain"
-email:  [at] cs [dot] utah [dot] edu
+email: xyz [at] cs [dot] utah [dot] edu
 webpage: 
 year: 
 program: MS

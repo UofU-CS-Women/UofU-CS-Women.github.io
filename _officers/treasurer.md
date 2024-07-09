@@ -4,7 +4,7 @@ layout: default
 title: Treasurer
 name: ""
 webpage:
-email:  [at] cs [dot] utah [dot] edu
+email: xyz [at] cs [dot] utah [dot] edu
 year: 
 program: 
 labname:

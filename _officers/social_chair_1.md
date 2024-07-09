@@ -4,7 +4,7 @@ layout: default
 title: Member
 name: "Mayukha Mandya"
 email:
-webpage:  [at] cs [dot] utah [dot] edu
+webpage: xyz [at] cs [dot] utah [dot] edu
 year: 
 program: 
 labname:
