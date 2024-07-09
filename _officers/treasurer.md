@@ -2,13 +2,13 @@
 publish: true
 layout: default
 title: Treasurer
-name: "Yueying Liu"
+name: ""
 webpage:
-email: yueyingliu [at] cs [dot] umass [dot] edu
-year: 2nd
-program: MS
+email:  [at] cs [dot] utah [dot] edu
+year: 
+program: 
 labname:
 labpage:
 thumbnail: /assets/images/officers/yliu.jpg
-order: 7
+order: 8
 ---

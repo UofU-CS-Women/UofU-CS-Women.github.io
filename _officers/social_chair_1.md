@@ -1,14 +1,14 @@
 ---
 publish: false
 layout: default
-title: Social Co-Chair
-name: "Purva Pruthi"
+title: Member
+name: "Mayukha Mandya"
 email:
-webpage: ppruthi [at] cs [dot] umass [dot] edu
-year: 2nd
-program: MS/PhD
+webpage:  [at] cs [dot] utah [dot] edu
+year: 
+program: 
 labname:
 labpage:
 thumbnail: /assets/images/officers/ppruthi.jpg
-order: 5
+order: 6
 ---

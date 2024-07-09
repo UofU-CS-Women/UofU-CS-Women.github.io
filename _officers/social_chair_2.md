@@ -1,14 +1,14 @@
 ---
 publish: false
 layout: default
-title: Social Co-Chair
-name: "Karine"
+title: Member
+name: "Mahnoor Fatima Saad"
 email:
-webpage: karine [at] cs [dot] umass [dot] edu
-year: 1st
+webpage: mahnoor [dot] saad [at] cs [dot] umass [dot] edu
+year: 2nd
 program: PhD
 labname:
 labpage:
 thumbnail:
-order: 6
+order: 7
 ---

@@ -1,14 +1,14 @@
 ---
 publish: true
 layout: default
-title: MS Chair
-name: "Akshita Bhagia"
-email: abhagia [at] cs [dot] umass [dot] edu
+title: Member
+name: "Sakshi Jain"
+email:  [at] cs [dot] utah [dot] edu
 webpage: 
-year: 1st
+year: 
 program: MS
 labname: 
 labpage: 
 thumbnail: /assets/images/officers/abhagia.jpg
-order: 3
+order: 4
 ---

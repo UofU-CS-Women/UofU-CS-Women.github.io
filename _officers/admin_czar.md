@@ -1,9 +1,9 @@
 ---
 publish: true
 layout: default
-title: Khaleesi/Administrative Czar
-name: "Eileen Hamel"
-email: ehamel [at] cs [dot] umass [dot] edu
+title: Advisor/Administrative Czar
+name: "Dr. Anna Fariha"
+email: afariha [at] cs [dot] utah [dot] edu
 thumbnail: /assets/images/officers/ehamel.jpg
-order: 9
+order: 1
 ---

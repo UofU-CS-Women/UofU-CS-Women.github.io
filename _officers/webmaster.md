@@ -2,13 +2,13 @@
 publish: true
 layout: default
 title: Webmaster
-name: "Yueying Liu"
-email: yueing [at] cs [dot] umass [dot] edu
+name: ""
+email:  [at] cs [dot] utah [dot] edu
 webpage:
-year: 2nd
-program: MS
+year: 
+program: 
 labname:
 labpage:
 thumbnail: /assets/images/officers/yliu.jpg
-order: 8
+order: 9
 ---

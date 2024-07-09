@@ -1,14 +1,14 @@
 ---
 publish: true
 layout: default
-title: Graduate Co-Chair
-name: "Katie Keith"
-email: kakeith [at] cs [dot] umass [dot] edu
+title: Member
+name: "Manila Devaraja"
+email: [at] cs [dot] utah [dot] edu
 webpage:
-year: 4th
+year: 
 program: PhD
-labname: SLANG lab
-labpage: http://slanglab.cs.umass.edu/
+labname: 
+labpage: 
 thumbnail: /assets/images/officers/kakeith.jpg
-order: 2
+order: 3
 ---
