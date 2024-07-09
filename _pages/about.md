@@ -7,27 +7,35 @@ order: 1
 
 ## About Us
 
-UMass Amherst CS Women was founded almost 25 years by [Professor Lori Clarke](http://laser.cs.umass.edu/people/clarke.html) as a community to support and serve women faculty and graduate students. Since its beginning, the group's vibrant leadership has been spearheaded by graduate women addressing the changing needs of our community. The undergraduate [Women in Computer Science (WiCS)](https://wicsumass.github.io) is another organization.
+UWelcome to Grad-CS Women, an inclusive community dedicated to empowering female computer science graduate students. As a student-led organization, we are committed to creating a supportive environment where women can thrive academically, professionally, and personally.
 
-Today we serve almost a hundred graduate women. Our membership has expanded to include female undergraduate computer science majors from the five colleges, as well as advocates of any gender who promote the interests of women in computing.
+Through various events, including workshops, speaker series, social gatherings, and professional development sessions, we strive to enhance the graduate experience and bridge the gender gap in technology. Our initiatives are designed to address the unique challenges faced by women in computer science and to celebrate their achievements.
 
-Our focus is on community building. We work closely with the faculty and staff of the [College of Information and Computer Sciences](http://cics.umass.edu/) to provide programs and services for our female-identified students. We also organize social events, lectures, and other professional activities that are open to all students in the College of Information and Computer Sciences.
+Join us at Grad-CS Women as we work together to break barriers, challenge stereotypes, and pave the way for future generations of women in tech. Together, we can make a lasting impact and shape a more diverse and inclusive future in computer science.
 
-Two graduate women students, often joined by two undergraduate women, serve as co-chairs for 2-semester terms. If you would like to get involved, email us at womenchairs@cs.umass.edu.
-
+Let’s connect, grow, and succeed – because when women support women, incredible things happen.
 ## Mission statement
 
-The mission of CSWomen at UMass Amherst is to:
+Our mission is to foster a sense of belonging and provide female computer science students with valuable resources, networking opportunities, and mentorship. We believe in the power of collaboration and aim to build a strong network of women who inspire and uplift each other. Grad CS Women is determined to:
+
 - build a strong community of female-identified computer science graduate students
 - enhance the academic and professional successes of its members
 - promote an inclusive community within the College, and highlight disparities
-- celebrate accomplishments of women in computer science.
+- celebrate accomplishments of women in computer science
 
-We achieve this mission by organizing and supporting
-1. professional panels and career-building events,
-2. academic talks from women leaders in academia and industry, and
-3. informal social networks and events.
 
-## Miscellaneous
+## Get Involved
 
-We are an organization of *graduate* women in computer science at UMass. Please check WiCS for the undergraduate group. [Women in Computer Science (WiCS)](https://wicsumass.github.io)
+As a member of Grad-CS Women, you’ll have access to
+
+ - Department-specific social gatherings
+ - Volunteering and outreach opportunities
+ - Coding / Hackathon preparation workshops
+ - Career-building workshops (e.g., resume/LinkedIn creation, interview preparation, etc.)
+ - Research workshops (e.g., paper/poster design, conference preparation, etc.)
+ - Scholarship and fellowship workshops (e.g., finding grants, applying to GRFP, etc.)
+ - Soft skills development workshops (e.g., presentation, communication, networking, etc.)
+
+and much more. Please note that while Grad-CS Women was designed with female computer science graduate students in mind, we regularly host events that welcome all computer science graduate students. Notifications about events open to the entire CS graduate community will be emailed to the grads@cs.utah.edu mailing list.
+
+Additionally, if you are a female CS graduate alumni and would like to serve as a mentor in the Grad-CS Women mentorship program or give a guest talk for the group, please get in touch with us.
