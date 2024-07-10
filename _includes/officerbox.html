@@ -1,24 +1,31 @@
-<div class="container">
-  <div class="row">
-    {% for officer in site.officers %}
-      <div class="col-md-4 mb-4">
-        <div class="card">
-          <img alt="{{ officer.name }}" src="{{ officer.thumbnail }}" class="card-img-top">
-          <div class="card-body">
-            <h5 class="card-title">{{ officer.name }}</h5>
-            <p class="card-text">{{ officer.title }}</p>
+<div class="row">
+  {% for officer in site.officers %}
+    <div class="col-md-12 mb-4">
+      <div class="row align-items-center">
+        <!-- Officer Thumbnail -->
+        <div class="col-md-4 mb-4 mb-md-0">
+          <img alt="{{ officer.name }}" src="{{ officer.thumbnail }}" class="img-fluid rounded-circle" style="max-width: 180px; height: auto;">
+        </div>
+        <!-- Officer Details -->
+        <div class="col-md-8">
+          <ul style="list-style-type:none;">
+            <li><b><a href="{{ officer.webpage }}">{{ officer.name }}</a></b></li>
+            <li><b>{{ officer.title }}</b></li>
             {% if officer.year %}
-              <p class="card-text"><small class="text-muted">{{ officer.year }} year in the {{ officer.program }} program</small></p>
+              <li><i>{{ officer.year }} year in the {{ officer.program }} program</i></li>
             {% endif %}
             {% if officer.labpage %}
-              <p class="card-text"><a href="{{ officer.labpage }}">Lab: {{ officer.labname }}</a></p>
+              <li><a href="{{ officer.labpage }}"><span class="glyphicon glyphicon-briefcase" title="work" aria-hidden="true"></span>&nbsp;{{ officer.labname }}</a></li>
             {% endif %}
             {% if officer.email %}
-              <p class="card-text"><a href="mailto:{{ officer.email }}">{{ officer.email }}</a></p>
+              <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;{{ officer.email }}</li>
             {% endif %}
-          </div>
+          </ul>
+          <p>
+            {{ officer.content }}
+          </p>
         </div>
       </div>
-    {% endfor %}
-  </div>
+      {% endfor %}
+    </div>
 </div>
