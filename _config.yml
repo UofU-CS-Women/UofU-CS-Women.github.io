@@ -14,34 +14,39 @@ authors:
   cswomen:
     name: CS Women
     display_name: CSWomen
-    email: uofuwomenincs@gmail.com
-    avatar: '/assets/images/avatars/xyz.png'
-    twitter: https://twitter.com/
-  Anna:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Anna
-  Estelle:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Estelle
-  Manila:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Manila
-  Milena:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Milena
-  Mayukha:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Mayukha
-  Mahnoor:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Mahnoor
-  Sakshi:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Sakshi
-  Shiyi:
-    avatar: '/assets/images/avatars/xyz.png'
-    display_name: Shiyi
-  
+    email: cswomenleadership@gmail.com
+    avatar: '/assets/images/avatars/cswomen.png'
+    twitter: https://twitter.com/cswomenumass
+  jfoley:
+    avatar: '/assets/images/avatars/jfoley.png'
+    display_name: Jfoley
+  tosch:
+    avatar: '/assets/images/avatars/etosch.png'
+    display_name: Emma Tosch
+  kritishrivastava:
+    avatar: '/assets/images/avatars/kritishrivastava.png'
+    display_name: Kriti Shrivastava
+  manpreet:
+    avatar: '/assets/images/avatars/manpreet.png'
+    display_name: Manpreet
+  myungha:
+    avatar: '/assets/images/avatars/myungha.png'
+    display_name: Myungha Jang
+  nidhimundra:
+    avatar: '/assets/images/avatars/nidhimundra.png'
+    display_name: Nidhi Mundra
+  rian:
+    avatar: '/assets/images/avatars/rian.png'
+    display_name: Rian Shambaugh
+  shamya:
+    avatar: '/assets/images/avatars/S.png'
+    display_name: Shamya
+  shiri:
+    avatar: '/assets/images/avatars/S.png'
+    display_name: Shiri
+  sofya:
+    avatar: '/assets/images/avatars/S.png'
+    display_name: Sofya
     
 # Plugins
 plugins: 
