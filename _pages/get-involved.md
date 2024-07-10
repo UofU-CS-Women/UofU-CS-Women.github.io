@@ -4,7 +4,7 @@ title: Get Involved!
 permalink: /get-involved
 order: 4
 ---
-## Get Involved
+# Get Involved
 
 As a member of Grad-CS Women, you’ll have access to
 
