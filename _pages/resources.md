@@ -7,4 +7,6 @@ order: 5
 
 # Conferences
 
-List resources here
+# Scholarships
+
+# Funding
