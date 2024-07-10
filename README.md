@@ -39,4 +39,4 @@ If you are creating a new position, add a new `.md` file. Copy the format from t
 
 
 ## Contact
- Please contact Neha (nnayak@cs...) if you have any questions about the website. I will probably have forgotten most of what I did but it's ok! We can work it out together.
+ Please contact <> if you have any questions about the website. I will probably have forgotten most of what I did but it's ok! We can work it out together.
