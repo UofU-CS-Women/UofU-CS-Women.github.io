@@ -9,6 +9,6 @@ year:
 program: MS
 labname: 
 labpage: 
-thumbnail: /assets/images/officers/abhagia.jpg
+thumbnail: /assets/images/officers/xyz.png
 order: 4
 ---

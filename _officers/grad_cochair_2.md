@@ -9,6 +9,6 @@ year:
 program: PhD
 labname: 
 labpage: 
-thumbnail: /assets/images/officers/kakeith.jpg
+thumbnail: /assets/images/officers/xyz.png
 order: 3
 ---
