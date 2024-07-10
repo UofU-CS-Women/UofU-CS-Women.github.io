@@ -4,21 +4,18 @@ title: Get Involved!
 permalink: /get-involved
 order: 4
 ---
+## Get Involved
 
-# Are you interested in...
+As a member of Grad-CS Women, you’ll have access to
 
- - Helping us attract and retain more female students and faculty in CS?
- - Finding a mentor or a mentee? 
- - Getting involved in k-12 outreach opportunities? 
- - Socializing with other women in computing? 
- - Brainstorming on how we could better serve the UMass community? 
+ - Department-specific social gatherings
+ - Volunteering and outreach opportunities
+ - Coding / Hackathon preparation workshops
+ - Career-building workshops (e.g., resume/LinkedIn creation, interview preparation, etc.)
+ - Research workshops (e.g., paper/poster design, conference preparation, etc.)
+ - Scholarship and fellowship workshops (e.g., finding grants, applying to GRFP, etc.)
+ - Soft skills development workshops (e.g., presentation, communication, networking, etc.)
 
-All of these and more are great reasons to get involved with CS Women! 
+and much more. Please note that while Grad-CS Women was designed with female computer science graduate students in mind, we regularly host events that welcome all computer science graduate students. Notifications about events open to the entire CS graduate community will be emailed to the grads@cs.utah.edu mailing list.
 
-To get in touch with us, please send us an email at `uofuwomenincs@gmail.com`.
-
-# Positions & Officers
-Why get more involved with CS Women? Officers have a high degree of contact with faculty and are asked to participate in high-profile events. It's a great way to make friends, make research connections, and have fun or whatever.
-
-_For applications requiring you specify your status in the program, please include both academic program (e.g., M.S in Computer Science) and year, where year is your numeric year in the program (not the qualitative descriptor, such as "sophomore" or "PhD candidate")._
-
+Additionally, if you are a female CS graduate alumni and would like to serve as a mentor in the Grad-CS Women mentorship program or give a guest talk for the group, please get in touch with us.

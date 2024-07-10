@@ -24,18 +24,4 @@ Our mission is to foster a sense of belonging and provide female computer scienc
 - celebrate accomplishments of women in computer science
 
 
-## Get Involved
 
-As a member of Grad-CS Women, you’ll have access to
-
- - Department-specific social gatherings
- - Volunteering and outreach opportunities
- - Coding / Hackathon preparation workshops
- - Career-building workshops (e.g., resume/LinkedIn creation, interview preparation, etc.)
- - Research workshops (e.g., paper/poster design, conference preparation, etc.)
- - Scholarship and fellowship workshops (e.g., finding grants, applying to GRFP, etc.)
- - Soft skills development workshops (e.g., presentation, communication, networking, etc.)
-
-and much more. Please note that while Grad-CS Women was designed with female computer science graduate students in mind, we regularly host events that welcome all computer science graduate students. Notifications about events open to the entire CS graduate community will be emailed to the grads@cs.utah.edu mailing list.
-
-Additionally, if you are a female CS graduate alumni and would like to serve as a mentor in the Grad-CS Women mentorship program or give a guest talk for the group, please get in touch with us.

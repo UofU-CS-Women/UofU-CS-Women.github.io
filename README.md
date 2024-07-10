@@ -14,10 +14,10 @@ If you are unfamiliar with Jekyll, I strongly recommend going through [this exce
 ## Common tasks
 
 ### Adding a blog post
-Please read the relevant [README here](https://github.com/CSWomenUMass/cswomenumass.github.io/blob/master/_posts/README.md).
+Please read the relevant README
 
 ### Adding a new page
-Pages are similar to posts, so please follow the instructions in the blog post [README](https://github.com/CSWomenUMass/cswomenumass.github.io/blob/master/_posts/README.md). In addition, please add the following front matter:
+Pages are similar to posts, so please follow the instructions in the blog post [README](https://github.com/UofU-CS-Women/UofU-CS-Women.github.io/blob/main/_posts/README.md). In addition, please add the following front matter:
 * order: determines the order in which pages appear in the top navbar
 * short-title: determines the title that appears in the top navbar for this page
 * hide-nav: if set to true, prevents page from being shown in the top navbar
